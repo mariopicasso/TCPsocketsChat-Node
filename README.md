@@ -8,4 +8,6 @@ You can run the programm in this way:
 
 node server.js 8000
 
-node client.js localhost 8000
+node client.js localhost 8000 (in other console)
+
+You can init multiple clients
