@@ -5,5 +5,7 @@ This a self exercise to understand how protocols like HTTP work, it's simple cha
 
 ## INSTRUCTIONS:
 You can run the programm in this way:
+
 node server.js 8000
+
 node client.js localhost 8000
